@@ -16,6 +16,10 @@ Aquest projecte serveix com a pràctica per aprendre a utilitzar Git i Markdown.
 
 Una introducció al projecte i el seu objectiu.
 
+Welcome to the MarkdownProject! This project is focused on learning Markdown and Git.
+
+**New line added for clarity.**
+
 ## Features
 
 - Ús de Git per gestionar projectes.
