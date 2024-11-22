@@ -30,6 +30,10 @@ Una introducció al projecte i el seu objectiu.
 | Markdown Support | Utilitzar Markdown per documentar projectes.         | In Progress |
 | Image Management | Afegir i gestionar imatges en projectes Markdown.    | Planned     |
 
+Aquest projecte inclou diverses **característiques clau** per ajudar-te a millorar el teu flux de treball amb Git i Markdown. És especialment útil per a **desenvolupadors novells** i _entusiastes de la tecnologia_. Per exemple, pots utilitzar el comando `git commit` per registrar canvis en el teu repositori.
+
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 ## Installation
 
 Instruccions per configurar el projecte al teu ordinador.
@@ -37,6 +41,17 @@ Instruccions per configurar el projecte al teu ordinador.
 ## Usage
 
 Com utilitzar aquest projecte pas a pas.
+
+```python
+# This is a simple Python function to add two numbers
+def add_numbers(a, b):
+    """Return the sum of a and b."""
+    return a + b
+
+# Example usage
+result = add_numbers(5, 7)
+print("The sum is:", result)
+```
 
 ## License
 
