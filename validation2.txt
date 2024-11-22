@@ -1,0 +1,98 @@
+commit 63aa87f21656e9b6d087ea90f84e3450f73c94f6
+Merge: f35399d 25648ee
+Author: VictorEscudero <39524077a@iespoblenou.org>
+Date:   Fri Nov 22 14:23:39 2024 +0100
+
+    Merge pull request #2 from VictorEscudero/feature/1-contribution-guidelines
+    
+    Add contributing guidelines
+
+commit 25648eed5df8054f0a87987a790fe6b28a67916b
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 13:52:42 2024 +0100
+
+    Add contributing guidelines
+
+ CONTRIBUTING.md | 23 +++++++++++++++++++++++
+ 1 file changed, 23 insertions(+)
+
+commit f35399d44134b7cee09b32d5a9c366c44b72e4f5
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 13:07:54 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 78bb9f23ede1039362f2aa3f7eb08c2d7916996c
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 13:01:43 2024 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 62 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 62 insertions(+)
+
+commit 32713e594121dc231316793c9ff6bc755a6ee53e
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 12:17:27 2024 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 9545ace9e62232b2ecea64d9325644e78730ff99
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 12:09:13 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 22b55867bc51f9164b0dbcab323151b00f831a5b
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 11:59:06 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 41 ++++++++++++++++++++++++++++++++++++-----
+ 1 file changed, 36 insertions(+), 5 deletions(-)
+
+commit 965920b48c9c14a68320c0245d7a5d88a4f73fc8
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Fri Nov 22 09:57:15 2024 +0100
+
+    Add project logo to README
+
+ images/logo.png | Bin 0 -> 4382 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit de9b227087e7c7a2e06ae08fbab608f406b0dd1b
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Thu Nov 21 12:19:58 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 453ef4a7c2c156fcf52aa04fc7a8f692038cd0b6
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Thu Nov 21 12:10:55 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit fa851a6e78bcdc072b4f6748cf4f3d5187243cd6
+Author: victor <39524077a@maqueta-linux.poblenou>
+Date:   Thu Nov 21 12:02:06 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
